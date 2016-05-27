@@ -5,7 +5,7 @@ import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BOARD)
 
 # Pin 18 (GPIO 24) auf Input setzen
-GPIO.setup(18, GPIO.IN)
+GPIO.setup(18, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 # Pin 11 (GPIO 17) auf Output setzen
 GPIO.setup(11, GPIO.OUT)
