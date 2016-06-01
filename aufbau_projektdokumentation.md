@@ -12,7 +12,7 @@
 * Ausblick / Folgeaktivitäten
 * Fazit
 * Begriffserklärungen
-###Anlagen / Anhang: (eigentlich Bestandteil der Projektakte)
+### Anlagen / Anhang: (eigentlich Bestandteil der Projektakte)
 * Pflichtenheft
 * Angebot
 * Preiskalkulation/Nutzwertanalyse
