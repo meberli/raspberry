@@ -20,8 +20,9 @@
 * Kundeneinweisung
 * Abnahme- und Testprotokoll
 * Rechnung
-* ev. code
+* ev. Codeauszug
 
+Beispiel
 ```python
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BCM)
