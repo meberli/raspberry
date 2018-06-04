@@ -21,7 +21,6 @@
 * Abnahme- und Testprotokoll
 * Rechnung
 * ev. Codeauszug
-
   * Beispiel
 ```python
 import RPi.GPIO as GPIO
