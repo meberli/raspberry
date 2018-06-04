@@ -1,11 +1,11 @@
-#Projektdokumentation 
->(PDO, gelegentlich auch Projektabschlussbericht) ist gem. DIN69901 die Zusammenstellung ausgewählter, wesentlicher Daten über Konfiguration, Organisation, Mitteleinsatz, Lösungswege, Ablauf und erreichte Ziele des Projektes.
+# Projektdokumentation 
+>(PDO, gelegentlich auch Projektabschlussbericht genannt) ist gem. DIN69901 die Zusammenstellung ausgewählter, wesentlicher Daten über Konfiguration, Organisation, Mitteleinsatz, Lösungswege, Ablauf und erreichte Ziele des Projektes.
 
-##Typischer Aufbau
+## Typischer Aufbau
 * Projektvorfeld (IST-Analyse)
 * Aufgabenstellung (SOLL-Konzept)
 * Anforderungen
-* Projektziele (SOLL-IST-VERGLEICH)
+* Projektziele (SOLL-IST-Vergleich)
 * Zeitplanung / Meilenstein (Projektmanagement)
 * Wirtschaftlichkeit
 * Projektverlauf
@@ -13,16 +13,16 @@
 * Fazit
 * Begriffserklärungen
 
-### Anlagen / Anhang: (eigentlich Bestandteil der Projektakte)
+### Anlagen / Anhang: (eigentlich Bestandteil der Projektdokumentation)
 * Pflichtenheft
 * Angebot
-* Preiskalkulation/Nutzwertanalyse
+* Preiskalkulation / Nutzwertanalyse
 * Kundeneinweisung
 * Abnahme- und Testprotokoll
 * Rechnung
 * ev. Codeauszug
 
-Beispiel
+  * Beispiel
 ```python
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BCM)
