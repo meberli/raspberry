@@ -10,7 +10,7 @@ GPIO.setup(18, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 # Pin 11 (GPIO 17) auf Output setzen
 GPIO.setup(11, GPIO.OUT)
 
-# Dauersschleife
+# Dauerschleife
 while 1:
   # LED immer ausmachen
   GPIO.output(11, GPIO.LOW)
